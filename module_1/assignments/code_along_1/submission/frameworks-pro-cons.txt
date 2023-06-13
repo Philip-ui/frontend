@@ -1,0 +1,31 @@
+The 3 most popular frontend Frameworks are:
+ReactJS, AngularJS and VueJS.
+ReactJS strengths:
+1. Easy to create Dynamic Web Applications
+2. Reusable Components makes applications easier to develop and maintain.
+3. Better Performance due to virtual DOM.
+
+ReactJS weaknesses:
+1. High Learning Curve.
+2. Doesn't provide built-in solution for state management, routing and other common tasks.
+3. Setting up projects requires vast ecosystem of tools, libraries and build systems.
+
+AngularJS strengths:
+1. Open Source
+2. Easy to extend
+3. Easy to test
+
+AngularJS weaknesses:
+1. Less secure 
+2. No specific way
+3. Not supported everywhere
+
+VueJS strenghts:
+1. Lightweight and Performance
+2. Simplicity and Learning Curve
+3. Extensive documentation
+
+VueJS weaknesses:
+1. Risk of over flexibility leads to inconsistency of code
+2. Smaller number of components and plugins
+3. Language barrier, a lot of documentations are in Chinese.
