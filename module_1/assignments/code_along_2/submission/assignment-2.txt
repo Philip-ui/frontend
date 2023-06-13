@@ -1,0 +1,25 @@
+In PowerShell windows:
+D:\Github\Sigma-school>mkdir assign2cli-project
+D:\Github\Sigma-school>cd assign2cli-project
+D:\Github\Sigma-school\assign2cli-project>mkdir about
+D:\Github\Sigma-school\assign2cli-project>mkdir contact
+D:\Github\Sigma-school\assign2cli-project>mkdir gallery
+D:\Github\Sigma-school\assign2cli-project>mkdir assets
+D:\Github\Sigma-school\assign2cli-project> New-Item -Path "D:\Github\Sigma-school\assign2cli-project\index.html" -ItemType "File"
+D:\Github\Sigma-school\assign2cli-project> New-Item -Path "D:\Github\Sigma-school\assign2cli-project\README.md" -ItemType "File"
+D:\Github\Sigma-school\assign2cli-project> New-Item -Path "D:\Github\Sigma-school\assign2cli-project\about\me.html" -ItemType "File" 
+D:\Github\Sigma-school\assign2cli-project> New-Item -Path "D:\Github\Sigma-school\assign2cli-project\about\images.html" -ItemType "File"
+D:\Github\Sigma-school\assign2cli-project> New-Item -Path "D:\Github\Sigma-school\assign2cli-project\contact\contact.html" -ItemType "File"
+D:\Github\Sigma-school\assign2cli-project> New-Item -Path "D:\Github\Sigma-school\assign2cli-project\gallery\gallery.html" -ItemType "File"
+D:\Github\Sigma-school\assign2cli-project> Move-Item -Path "C:\Users\ASUS\Downloads\banner_1.jpg" -Destination "D:\Github\Sigma-school\assign2cli-project\gallery"
+D:\Github\Sigma-school\assign2cli-project> Move-Item -Path "C:\Users\ASUS\Downloads\banner_2.jpg" -Destination "D:\Github\Sigma-school\assign2cli-project\gallery"
+D:\Github\Sigma-school\assign2cli-project> Move-Item -Path "C:\Users\ASUS\Downloads\banner_3.jpg" -Destination "D:\Github\Sigma-school\assign2cli-project\gallery"
+D:\Github\Sigma-school\assign2cli-project> New-Item -Path "D:\Github\Sigma-school\assign2cli-project\assets\javascript\index.js" -ItemType "File"
+D:\Github\Sigma-school\assign2cli-project> New-Item -Path "D:\Github\Sigma-school\assign2cli-project\assets\javascript\timer.js" -ItemType "File"
+D:\Github\Sigma-school\assign2cli-project> New-Item -Path "D:\Github\Sigma-school\assign2cli-project\assets\javascript\navbar.js" -ItemType "File"
+D:\Github\Sigma-school\assign2cli-project> New-Item -Path "D:\Github\Sigma-school\assign2cli-project\assets\css\styles.css" -ItemType "File"
+D:\Github\Sigma-school\assign2cli-project> New-Item -Path "D:\Github\Sigma-school\assign2cli-project\assets\css\home.css" -ItemType "File" 
+D:\Github\Sigma-school\assign2cli-project> New-Item -Path "D:\Github\Sigma-school\assign2cli-project\assets\css\contact.css" -ItemType "File"
+D:\Github\Sigma-school\assign2cli-project> New-Item -Path "D:\Github\Sigma-school\assign2cli-project\assets\css\gallery.css" -ItemType "File"
+
+
