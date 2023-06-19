@@ -1,0 +1,23 @@
+{
+  "name": "module1-capstone",
+  "version": "1.0.0",
+  "description": "Module-1 Capstone Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lightningjs/ui-components": "^2.3.0",
+    "@uifabric/styling": "^7.25.1",
+    "api": "^5.0.8",
+    "date-format": "^4.0.14",
+    "env-var": "^7.3.1",
+    "express-authentication": "^0.3.2",
+    "linters": "^0.0.5",
+    "mongoose-data-seed": "^2.1.6",
+    "pdfreader": "^3.0.0",
+    "sendmail": "^1.6.1"
+  }
+}
